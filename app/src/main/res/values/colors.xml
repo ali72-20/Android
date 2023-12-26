@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#4267B2</color>
+    <color name="blue2">#075886</color>
+    <color name="purple">#21005D</color>
+    <color name="rout">#001E85</color>
+    <color name="routbutton">#104AD2</color>
+</resources>
